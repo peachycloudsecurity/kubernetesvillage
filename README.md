@@ -1,7 +1,7 @@
 # Kubernetes Village: Where Kubernetes Meets Security!
 
 
-<img src="./docs/assets/k8svillagelogo.png" alt="k8svillagelogo" width="200" height="200">
+<img src="./docs/assets/k8svillagelogo.png" alt="k8svillagelogo" width="400" height="400">
 
 Welcome to Kubernetes Village, your own community for all things Kubernetes security!
 
