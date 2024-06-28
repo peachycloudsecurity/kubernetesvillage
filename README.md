@@ -1,8 +1,9 @@
 # Kubernetes Village: Where Kubernetes Meets Security!
 
 
-<img src="./docs/assets/k8svillagelogo.png" alt="k8svillagelogo" width="400" height="400">
-
+<div align="center">
+  <img src="./docs/assets/k8svillagelogo.png" alt="k8svillagelogo" width="400" height="400">
+</div>
 Welcome to Kubernetes Village, your own community for all things Kubernetes security!
 
 At Kubernetes Village, we are dedicated to fostering a vibrant community where Kubernetes security enthusiasts and professionals can converge to share knowledge, exchange ideas, and collaborate on innovative security solutions. Whether you're a seasoned Kubernetes security expert or just beginning your journey in K8s security, our community offers a wealth of resources and opportunities for growth and learning.
