@@ -1,7 +1,7 @@
 # Kubernetes Village: Where Kubernetes Meets Security!
 
 
-![CloudSec.Cybr logo](./docs/assets/cloudsec.cybr-logo-300px.jpg)
+![k8svillagelogo](./docs/assets/k8svillagelogo.png)
 
 Welcome to Kubernetes Village, your own community for all things Kubernetes security!
 
