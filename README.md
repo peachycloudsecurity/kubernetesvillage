@@ -16,4 +16,3 @@ Connect at:
 
 Official website URL: [https://kubernetes.com]([https://cloudsec.cybr.com](https://kubernetes.com))
 
-![CloudSec.Cybr Dashboard Screenshot](./docs/assets/cloudsec.cybr.com-screenshot.jpg)
