@@ -1,10 +1,17 @@
-# kubernetesvillage.com
+# Kubernetes Village: Where Kubernetes Meets Security!
+
 
 ![CloudSec.Cybr logo](./docs/assets/cloudsec.cybr-logo-300px.jpg)
 
-Kubernetes Village is your go-to public repository for all things related to Kubernetes security. We welcome contributions on a wide range of topics, including Kubernetes clusters, container security, and related tools for pentesting, runtime security, Infrastructure as Code (IaC), and more. Our primary focus is on promoting and mentioning open-source tooling.
+Welcome to Kubernetes Village, your own community for all things Kubernetes security!
 
-If you have a opensource/freemium version of the commercial product you'd like to promote, please contact us at [peachyclouds3curity@gmail.com](peachyclouds3curity@gmail.com) for sponsorship opportunities.
+At Kubernetes Village, we are dedicated to fostering a vibrant community where Kubernetes security enthusiasts and professionals can converge to share knowledge, exchange ideas, and collaborate on innovative security solutions. Whether you're a seasoned Kubernetes security expert or just beginning your journey in K8s security, our community offers a wealth of resources and opportunities for growth and learning.
+
+Whether you are working with a self-managed Kubernetes setup or a cloud-managed environment (EKS, AKS, GKE), we provide comprehensive guidance on security best practices and insights tailored to your specific needs.
+
+Connect at:
+🎟️: www.kubernetesvillage.com (WIP)
+👉: peachyclouds3curity@gmail.com
 
 Official website URL: [https://kubernetes.com]([https://cloudsec.cybr.com](https://kubernetes.com))
 
